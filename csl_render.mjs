@@ -6,9 +6,7 @@
  * 日本語文献など、高精度な出力が得られます。
  *
  * 使い方:
- *   npm install && node csl_render.mjs
- *   node csl_render.mjs --csl ../mizu-kankyo-gakkaishi.csl
- *   node csl_render.mjs --refs references.json
+ *   node csl_render.mjs --csl <style.csl> [--refs references.json]
  */
 
 import { readFileSync } from "fs";
@@ -25,6 +23,9 @@ const CSL = require("citeproc");
 const DEFAULT_LOCALE = "en-US";
 const LOCALE_URL =
   "https://raw.githubusercontent.com/citation-style-language/locales/master/locales-";
+
+const USAGE =
+  "Usage: node csl_render.mjs --csl <style.csl> [--refs references.json]";
 
 function parseArgs() {
   const args = process.argv.slice(2);
@@ -73,15 +74,19 @@ async function fetchLocale(lang) {
 
 async function main() {
   const { csl, refs } = parseArgs();
+  if (!csl) {
+    console.error(USAGE);
+    console.error("Error: --csl <style.csl> is required.");
+    process.exit(1);
+  }
+
   const scriptDir = __dirname;
   const projectRoot = resolve(scriptDir, "..");
 
-  const cslName = csl || "mizu-kankyo-gakkaishi2.csl";
   const cslPath =
-    findFile(cslName, [scriptDir, projectRoot]) ||
-    findFile(cslName, [process.cwd()]);
+    findFile(csl, [scriptDir, projectRoot]) || findFile(csl, [process.cwd()]);
   if (!cslPath) {
-    console.error(`CSL file not found: ${cslName}`);
+    console.error(`CSL file not found: ${csl}`);
     process.exit(1);
   }
 
@@ -114,7 +119,7 @@ async function main() {
   }
   if (!localeXml) {
     console.error(
-      "Locale en-US not found. Place locales-en-US.xml in csl_preview/"
+      "Locale en-US not found. Place locales-en-US.xml in the project directory."
     );
     process.exit(1);
   }

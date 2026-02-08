@@ -1,37 +1,31 @@
 # CSL プレビュー
 
-参考文献リストをカスタム CSL スタイルでプレビューするツールです。
+参考文献リストをカスタム CSL スタイルでプレビューするツールです。Zotero や [CSL Visual Editor](https://editor.citationstyles.org/) と同じ **citeproc-js** を使用します。
 
-## レンダラーの選択
-
-| レンダラー | 精度 | 備考 |
-|-----------|------|------|
-| **Node.js (citeproc-js)** | ★★★ 高 | Zotero・CSL サイトと同じエンジン。推奨。 |
-| Python (citeproc-py) | ★★☆ 中 | テスト通過率〜60%、locale 等の差異あり |
-
-## Node.js 版（推奨）
-
-Zotero や [CSL Visual Editor](https://editor.citationstyles.org/) と同じ **citeproc-js** を使用します。
+## セットアップ
 
 ```bash
-cd csl_preview
 npm install
-node csl_render.mjs
 ```
 
-### オプション
+## 使い方
+
+CSL スタイルファイルは **必須** で `--csl` で指定します。参考文献 JSON は省略時 `references.json` です。
 
 ```bash
-# 別の CSL ファイルを指定
-node csl_render.mjs --csl ../mizu-kankyo-gakkaishi.csl
-
-# 別の参考文献 JSON を指定
-node csl_render.mjs --refs my-references.json
+node csl_render.mjs --csl <style.csl> [--refs references.json]
 ```
 
-### 入力形式
+例:
 
-`references.json` は CSL JSON 形式（Zotero エクスポートと同形式）です。
+```bash
+node csl_render.mjs --csl mizu-kankyo-gakkaishi.csl
+node csl_render.mjs --csl nature.csl --refs my-refs.json
+```
+
+## 入力形式
+
+参考文献ファイルは CSL JSON 形式（Zotero エクスポートと同形式）です。
 
 ```json
 [
@@ -39,10 +33,10 @@ node csl_render.mjs --refs my-references.json
     "id": "wada2006",
     "type": "article-journal",
     "author": [
-      {"family": "和田", "given": "桂子"},
-      {"family": "藤井", "given": "滋穂"}
+      { "family": "和田", "given": "桂子" },
+      { "family": "藤井", "given": "滋穂" }
     ],
-    "issued": {"date-parts": [[2006]]},
+    "issued": { "date-parts": [[2006]] },
     "title": "論文タイトル",
     "container-title": "水環境学会誌",
     "volume": "29",
@@ -50,11 +44,4 @@ node csl_render.mjs --refs my-references.json
     "page": "699-704"
   }
 ]
-```
-
-## Python 版
-
-```bash
-# プロジェクト直下で
-poetry run python csl_preview/csl_render.py
 ```
