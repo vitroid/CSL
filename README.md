@@ -45,3 +45,15 @@ node csl_render.mjs --csl nature.csl --refs my-refs.json
   }
 ]
 ```
+
+## 付属の CSL サンプル
+
+本リポジトリには **水環境学会誌** 用の CSL（`mizu-kankyo-gakkaishi.csl`）をサンプルとして含めています。Paperpile や Zotero、Mendeley などの論文管理ソフトウェアにこの CSL を読み込ませることで、文献リストを水環境学会の書式で自動フォーマットできます。
+
+## 問題報告・連絡
+
+スタイルの不具合や要望がありましたら、[GitHub の Issues](https://github.com/vitroid/CSL/issues) などから作者までご連絡ください。
+
+## 共同開発・他誌の CSL の提供
+
+他の学術雑誌用の CSL の提供や、共同での開発・メンテナンスに興味のある方を歓迎します。プルリクエストや Issues でお気軽にご連絡ください。
