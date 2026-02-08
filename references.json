@@ -1,0 +1,211 @@
+[
+  {
+    "id": "jswe01",
+    "type": "article-journal",
+    "author": [
+      {"family": "岩田", "given": "杉夫"},
+      {"family": "遠藤", "given": "忠嗣"},
+      {"family": "井上", "given": "隆信"},
+      {"family": "横田", "given": "久里子"},
+      {"family": "大久保", "given": "陽子"}
+    ],
+    "issued": {"date-parts": [[2013]]},
+    "title": "中小河川からの栄養塩負荷の流出特性",
+    "container-title": "水環境学会誌",
+    "volume": "36",
+    "issue": "2",
+    "page": "39-47"
+  },
+  {
+    "id": "jswe02",
+    "type": "article-journal",
+    "author": [
+      {"family": "Gunawardana", "given": "E.G.W."},
+      {"family": "Satoh", "given": "H."},
+      {"family": "Mino", "given": "T."}
+    ],
+    "issued": {"date-parts": [[2014]]},
+    "title": "Analysis of bacterial communities in treated water and activated sludge and evaluation of an easy methodology for preparing PCR-compatible DNA extracts",
+    "container-title": "Journal of Water and Environment Technology",
+    "volume": "12",
+    "issue": "1",
+    "page": "1-12"
+  },
+  {
+    "id": "jswe03",
+    "type": "article-journal",
+    "author": [
+      {"family": "Kikuchi", "given": "M."},
+      {"family": "Wakabayashi", "given": "M."},
+      {"family": "Kojima", "given": "H."},
+      {"family": "Yoshida", "given": "T."}
+    ],
+    "issued": {"date-parts": [[1980]]},
+    "title": "Bioaccumulation profiles of $^{35}\\mathrm{S}$-labelled sodium alkylpoly(oxyethylene) sulfates in carp (Cyprinus carpio)",
+    "container-title": "Water Research",
+    "volume": "14",
+    "issue": "10",
+    "page": "1541-1548"
+  },
+  {
+    "id": "jswe04",
+    "type": "article-journal",
+    "author": [
+      {"family": "吉村", "given": "孝一"},
+      {"family": "中栄", "given": "篤男"}
+    ],
+    "issued": {"date-parts": [[1982]]},
+    "title": "活性汚泥による直鎖アルキルベンゼンスルホン酸ナトリウム（LAS）の生分解性に関する研究(I)—LASの吸着機構について",
+    "container-title": "水質汚濁研究",
+    "volume": "5",
+    "issue": "1",
+    "page": "19-25"
+  },
+  {
+    "id": "jswe05",
+    "type": "article-journal",
+    "author": [
+      {"family": "Chys", "given": "M."},
+      {"family": "Audenaert", "given": "W.T.M."},
+      {"family": "Deniere", "given": "E."},
+      {"family": "Mortier", "given": "S.T.F.C."},
+      {"family": "Van Langenhove", "given": "H."},
+      {"family": "Nopens", "given": "I."},
+      {"family": "Demeestere", "given": "K."},
+      {"family": "Van Hulle", "given": "S.W.H."}
+    ],
+    "issued": {"date-parts": [[2017]]},
+    "title": "Surrogate-based correlation models in view of real-time control of ozonation of secondary treated municipal wastewater—model development and dynamic validation",
+    "container-title": "Environmental Science & Technology",
+    "DOI": "10.1021/acs.est.7b04905"
+  },
+  {
+    "id": "jswe06",
+    "type": "book",
+    "author": [{"family": "Fogg", "given": "G.E."}],
+    "issued": {"date-parts": [[1975]]},
+    "title": "Algal Cultures and Phytoplankton Ecology",
+    "edition": "2nd",
+    "publisher": "Univ. of Wisconsin Press",
+    "publisher-place": "Madison, WI, USA",
+    "page": "125"
+  },
+  {
+    "id": "jswe07",
+    "type": "book",
+    "author": [
+      {"family": "Newman", "given": "J."},
+      {"family": "Thomas-Alyea", "given": "K.E."}
+    ],
+    "issued": {"date-parts": [[2004]]},
+    "title": "Electrochemical Systems",
+    "edition": "3rd",
+    "publisher": "John Wiley & Sons, Inc.",
+    "publisher-place": "Hoboken, NJ, USA",
+    "page": "193-195"
+  },
+  {
+    "id": "jswe08",
+    "type": "book",
+    "author": [
+      {"family": "von Sonntag", "given": "C."},
+      {"family": "von Gunten", "given": "U."}
+    ],
+    "issued": {"date-parts": [[2012]]},
+    "title": "Chemistry of Ozone in Water and Wastewater Treatment: From Basic Principles to Applications",
+    "publisher": "IWA Publishing",
+    "publisher-place": "London, UK"
+  },
+  {
+    "id": "jswe09",
+    "type": "book",
+    "author": [{"family": "合田", "given": "健"}],
+    "issued": {"date-parts": [[1975]]},
+    "title": "水質工学（基礎編）",
+    "publisher": "丸善",
+    "publisher-place": "東京"
+  },
+  {
+    "id": "jswe10",
+    "type": "chapter",
+    "language": "ja",
+    "author": [{"family": "坂本", "given": "充"}],
+    "issued": {"date-parts": [[1982]]},
+    "title": "§3 湖沼の富栄養化",
+    "container-title": "湖沼環境調査指針",
+    "editor": [{"literal": "社団法人日本水質汚濁研究協会"}],
+    "publisher": "公害対策技術同友会",
+    "publisher-place": "東京",
+    "page": "11-13"
+  },
+  {
+    "id": "jswe11",
+    "type": "chapter",
+    "author": [{"family": "Bierman", "given": "V.J.Jr."}],
+    "issued": {"date-parts": [[1976]]},
+    "title": "Mathematical model of the selective enhancement of blue-green algae by nutrient enrichment",
+    "container-title": "Modeling Biochemical Processes in Aquatic Ecosystems",
+    "editor": [{"family": "Canale", "given": "R.P."}],
+    "publisher": "Ann Arbor Science",
+    "publisher-place": "Ann Arbor, MI, USA",
+    "page": "1-29"
+  },
+  {
+    "id": "jswe12",
+    "type": "chapter",
+    "author": [
+      {"family": "Zhang", "given": "X."},
+      {"family": "Echigo", "given": "S."},
+      {"family": "Minear", "given": "R.A."},
+      {"family": "Plewa", "given": "M.J."}
+    ],
+    "issued": {"date-parts": [[2000]]},
+    "title": "Characterization and comparison of disinfection by-products of four major disinfectants",
+    "container-title": "Natural Organic Matter and Disinfection By-Products: Characterization and Control in Drinking Water",
+    "editor": [
+      {"family": "Barrett", "given": "S.E."},
+      {"family": "Krasner", "given": "S.W."},
+      {"family": "Amy", "given": "G.L."}
+    ],
+    "publisher": "American Chemical Society",
+    "publisher-place": "Washington, DC, USA",
+    "page": "299-314"
+  },
+  {
+    "id": "jswe13",
+    "type": "webpage",
+    "author": [{"literal": "U.S. EPA"}],
+    "issued": {"date-parts": [[2007]]},
+    "title": "EPI Suite, Version 3.20",
+    "URL": "http://www.epa.gov/opptintr/exposure/pubs/episuite.htm",
+    "accessed": {"date-parts": [[2008, 10]]}
+  },
+  {
+    "id": "jswe14",
+    "type": "webpage",
+    "author": [{"literal": "農林水産省動物医薬品検査所"}],
+    "issued": {"date-parts": [[2008]]},
+    "title": "動物用医薬品等データベース",
+    "URL": "http://www.nval.go.jp/asp/_dbDR_idx.asp",
+    "accessed": {"date-parts": [[2009, 12]]}
+  },
+  {
+    "id": "jswe15",
+    "type": "webpage",
+    "author": [{"literal": "環境省"}],
+    "issued": {"date-parts": [[2011]]},
+    "title": "平成21-22年版環境白書・循環型社会白書・生物多様性白書",
+    "URL": "http://www.env.go.jp/policy/hakusho/past_index.html",
+    "accessed": {"date-parts": [[2012, 9]]}
+  },
+  {
+    "id": "jswe16",
+    "type": "report",
+    "author": [{"family": "古米", "given": "弘明"}],
+    "issued": {"date-parts": [[2012]]},
+    "title": "非特定汚染源からの流出負荷量の推計手法に関する研究",
+    "genre": "平成23年度環境省環境研究総合推進費成果報告書（RFb-11T1）",
+    "publisher": "社団法人日本水環境学会",
+    "publisher-place": "東京"
+  }
+]

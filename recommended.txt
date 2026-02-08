@@ -1,0 +1,30 @@
+雑誌論文記載例
+
+1) 岩田杉夫，遠藤忠嗣，井上隆信，横田久里子，大久保陽子，2013．中小河川からの栄養塩負荷の流出特性．水環境学会誌 36(2)，39-47．
+2) Gunawardana, E.G.W., Satoh, H., Mino, T., 2014. Analysis of bacterial communities in treated water andactivated sludge and evaluation of an easy methodology for preparing PCR-compatible DNA extracts. Journalof Water and Environment Technology 12(1), 1-12.
+3) Kikuchi, M., Wakabayashi, M., Kojima, H., Yoshida, T., 1980. Bioaccumulation profiles of 35S-labelledsodium alkylpoly(oxyethylene) sulfates in carp (Cyprinus carpio). Water Research 14(10), 1541-1548.
+4) 吉村孝一，中栄篤男，1982．活性汚泥による直鎖アルキルベンゼンスルホン酸ナトリウム（LAS）の生分解性に関する研究(I)―LAS の吸着機構について．水質汚濁研究 5(1)，19-25．
+5) Chys, M., Audenaert, W.T.M., Deniere, E., Mortier, S.T.F.C., Van Langenhove, H., Nopens, I., Demeestere,K., Van Hulle, S.W.H., 2017. Surrogate-based correlation models in view of real-time control of ozonation ofsecondary treated municipal wastewater—model development and dynamic validation. Environmental Science& Technology. DOI: 10.1021/acs.est.7b04905
+
+単行本記載例
+
+6) Fogg, G.E., 1975. Algal Cultures and Phytoplankton Ecology, 2nd ed. Univ. of Wisconsin Press, Madison, WI,USA, p. 125.
+7) Newman, J., Thomas-Alyea, K.E., 2004. Electrochemical Systems, 3rd ed. John Wiley & Sons, Inc., Hoboken,NJ, USA, pp. 193-195.
+8) von Sonntag, C., von Gunten, U., 2012. Chemistry of Ozone in Water and Wastewater Treatment: From BasicPrinciples to Applications. IWA Publishing, London, UK.
+9) 合田健，1975．水質工学（基礎編）．丸善，東京．
+
+編著本記載例
+
+10) 坂本充，1982．§３湖沼の富栄養化．社団法人日本水質汚濁研究協会編，湖沼環境調査指針．公害対策技術同友会，東京，pp. 11-13．
+11) Bierman, V.J.Jr., 1976. Mathematical model of the selective enhancement of blue-green algae by nutrientenrichment. In: Canale, R.P. (Ed.), Modeling Biochemical Processes in Aquatic Ecosystems. Ann ArborScience, Ann Arbor, MI, USA, pp. 1-29.
+12) Zhang, X., Echigo, S., Minear, R.A., Plewa, M.J., 2000. Characterization and comparison of disinfection by-products of four major disinfectants. In: Barrett, S.E., Krasner, S.W., Amy, G.L. (Eds.), Natural OrganicMatter and Disinfection By-Products: Characterization and Control in Drinking Water. American ChemicalSociety, Washington, DC, USA, pp. 299-314.
+
+ウェブページ記載例
+
+13) U.S. EPA, 2007. EPI Suite, Version 3.20. URL. http://www.epa.gov/opptintr/exposure/pubs/episuite.htm(2008 年 10 月時点).
+14) 農林水産省動物医薬品検査所，2008．動物用医薬品等データベース．URL. http://www.nval.go.jp/asp/_dbDR_idx.asp (2009 年 12 月時点) ．
+15) 環境省，2011-2012．平成 21-22 年版環境白書・循環型社会白書・生物多様性白書．URL. http://www.env.go.jp/policy/hakusho/past_index.html (2012 年 9 月時点) ．
+
+報告書記載例
+
+16) 古米弘明，2012．非特定汚染源からの流出負荷量の推計手法に関する研究．平成 23 年度環境省環境研究総合推進費成果報告書（RFb-11T1）．社団法人日本水環境学会，東京．

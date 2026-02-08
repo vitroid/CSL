@@ -1,0 +1,39 @@
+1) 	Kalff, J., 2002. Limnology: inland water ecosystems. 592. Retrieved from https://library.wur.nl/WebQuery/titel/1649338
+2) 	Matsumura, T., Ishimaru, T., 2004. Freshwater discharge and inflow loads of nitrogen and phosphorus to Tokyo bay (from April 1997 to march 1999). Umi no kenkyu 13(1), 25–36.
+3) 	Yoshimura, C., Takeuchi, K., 2007. Estimation of nutrient runoff processes in the Mekong river basin using a distributed hydrological model. Journal of the Japan Society of Hydrology & Water Resources 20(6), 493–504.
+4) 	Craine, J.M., Brookshire, E.N.J., Cramer, M.D., Hasselquist, N.J., Koba, K., Marin-Spiotta, E., Wang, L., 2015. Ecological interpretations of nitrogen isotope ratios of terrestrial plants and soils. Plant and soil 396(1–2), 1–26.
+5) 	Douglas-Mankin, K.R., Srinivasan, R., Arnold, J.G., 2010. Soil and Water Assessment Tool (SWAT) model: Current developments and applications. Transactions of the ASABE 53(5), 1423–1431.
+6) 	Haith, D.A., Shoemaker, L.L., 1987. GENERALIZED WATERSHED LOADING FUNCTIONS FOR STREAM FLOW NUTRIENTS1. Journal of the American Water Resources Association 23(3), 471–478.
+7) 	Young, R.A., Onstad, C.A., Bosch, D.D., Anderson, W.P., 1994. Agricultural non-point source pollution model. AGNPS User’s Guide, Version 4. Retrieved from https://scholar.google.com/citations?user=ZzyY_uYAAAAJ&hl=en&oi=sra
+8) 	古米弘明, 2012. 非特定汚染源からの流出負荷量の推計手法に関する研究. 平成 23 年度環境省環境研究総合推進費成果報告書 (RFb-11T1). 社団法人日本水環境学会, 東京.
+9) 	Alexander, R.B., Smith, R.A., Schwarz, G.E., Preston, S.D., Brakebill, J.W., Srinivasan, R., Pacheco, P.A., 2013. Atmospheric nitrogen flux from the watersheds of major estuaries of the United States: An application of the SPARROW watershed model. Nitrogen Loading in Coastal Water Bodies: An Atmospheric Perspective. American Geophysical Union, Washington, D. C., pp. 119–170.
+10) 	Wetherbee, G., Wieczorek, M., Robertson, D., Saad, D., Novick, J., Mast, M.A., 2022. Estimating urban air pollution contribution to South Platte River nitrogen loads with National Atmospheric Deposition Program data and SPARROW model. Journal of environmental management 301(113861), 113861.
+11) 	環境省. 水質汚濁に係る環境基準. URL. https://www.env.go.jp/kijun/mizu.html (2025年1月時点).
+12) 	相模川. URL. https://ja.wikipedia.org/w/index.php?title=%E7%9B%B8%E6%A8%A1%E5%B7%9D (2025年1月時点).
+13) 	桂川. URL. https://kotobank.jp/word/桂川-231909 (2025年1月時点).
+14) 	堤充紀, 1983. 桂川(相模川)の水源別流量の推定. 山梨衛公研年報 27, 44–47.
+15) 	国立環境研究所. 環境展望台. URL. https://tenbou.nies.go.jp (2025年1月時点).
+16) 	山本民次, 石田愛美, 清木徹., 2002. 太田川河川水中のリンおよび窒素濃度の長期変動—植物プランクトン種の変化を引き起こす主要因として. 水産海洋研究 66(2), 102–109.
+17) 	奥田益算, 森明寛, 南條吉之, 永美敏正, 2005. 山林汚濁負荷原単位調査について. 鳥取県衛生環境研究所報 45, 16–22.
+18) 	Redfield, A.C., 1934. On the proportions of organic derivatives in sea water and their relation to the composition of plankton. 1. Retrieved from https://www.researchgate.net/profile/Yair-Suari/publication/344709447_ON_THE_PROPORTIONS_OF_ORGANIC_DERIVATIVES_IN_SEA_WATER_AND_THEIR_RELATION_TO_THE_COMPOSITION_OF_PLANKTON_This_is_the_text_from_Alfred_Charles_Redfield_paper/links/5f8d5b04a6fdccfd7b6c0caf/ON-THE-PROPORTIONS-OF-ORGANIC-DERIVATIVES-IN-SEA-WATER-AND-THEIR-RELATION-TO-THE-COMPOSITION-OF-PLANKTON-This-is-the-text-from-Alfred-Charles-Redfield-paper.pdf
+19) 	黒田久雄, 加藤亮., 中曽根英雄, 2009. 霞ヶ浦水質の現状と流域対策. 農業農村工学会誌 77(6), 447-450,a1.
+20) 	茨城県県民生活環境部環境対策課, 2024. 霞ヶ浦の令和５年度水質概況について. .
+21) 	滋賀県琵琶湖環境科学研究センター, 2021. 第 8 期湖沼水質保全計画に係る 将来水質予測シミュレーションについて （最終）. .
+22) 	Deng, O., Chen, Y., Lan, T., Zhang, S., Gao, X., Zhou, W., Ou, D., … Luo, L., 2021. Contribution of atmospheric N deposition to riverine N load in a forest-dominated watershed through field monitoring for three years. Chemosphere 266(128951), 128951.
+23) 	藤田慎一, 2004. ガス状・粒子状物質の沈着に関する研究. 大気環境学会誌 39(3), 107–118.
+24) 	堀尾拓矢, 井上広史, 吉見仁志, 北田敏廣, 2013. 大気沈着による渥美湾への窒素負荷量の推計. Bulletin of Aichi Environmental Research Center 40, 1–7.
+25) 	智和正明, 岩本洋子, 2024. 大気から森林・海洋生態系への反応性窒素成分の沈着. 地球化学 58(4), 145–159.
+26) 	Marquardt, D.W., 1963. An algorithm for least-squares estimation of nonlinear parameters. Journal of the Society for Industrial and Applied Mathematics 11(2), 431–441.
+27) 	Virtanen, P., Gommers, R., Oliphant, T.E., Haberland, M., Reddy, T., Cournapeau, D., Van Mulbregt P., 2020. SciPy 1.0: fundamental algorithms for scientific computing in Python. Nature methods 17(3), 261–272.
+28) 	Drapper, D., Tomlinson, R., Williams, P., (n.d.). Pollutant concentrations in road runoff: Southeast Queensland case study. . DOI: 10.1061/(ASCE)0733-9372(2000)126:4(313)
+29) 	和田桂子, (2007). 路面排水中の有機物質および栄養塩類の流出挙動とその削減手法に関する研究 (博士(工学)). . 京都大学大学院工学研究科附属流域圏総合環境質研究センター. Retrieved from https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/49754/1/D_Wada.pdf
+30) 	丸山利輔, 石川重雄, 大槻恭一, 高瀬恵次, 永井明博, 田中丸治哉, 駒村正治, … 渡辺紹裕, 2014. 地域環境水文学. 朝倉書店, pp. 63–64.
+31) 	安藤晴夫, 和波一夫, 2010. 雨天時水質調査結果について (1) 雨天時における河川水質の変化. 東京都環境科学研究所年報= Annual report of the Tokyo Metropolitan Research Institute for Environmental Protection/東京都環境科学研究所 編 2010, 121–125.
+32) 	篠宮佳樹, 2006. 四万十川源流部の森林における降雨時の渓流水の硝酸態窒素の流出. Water science 50(4), 1–16.
+33) 	Rose, L.A., Sebestyen, S.D., Elliott, E.M., Koba, K., 2015. Drivers of atmospheric nitrate processing and export in forested catchments. Water resources research 51(2), 1333–1352.
+34) 	Tsunogai, U., Komatsu, D.D., Daita, S., Kazemi, G.A., Nakagawa, F., Noguchi, I., Zhang, J., 2010. Tracing the fate of atmospheric nitrate deposited onto a forest ecosystem in Eastern Asia using Δ17O. Atmospheric chemistry and physics 10(4), 1809–1820.
+35) 	Ban, S., Matsuda, K., Sato, K., Ohizumi, T., 2016. Long-term assessment of nitrogen deposition at remote EANET sites in Japan. Atmospheric environment (Oxford, England: 1994) 146, 70–78.
+36) 	伊藤純一, 2002. 水質基準としての窒素・リンとは何か ---畑地流出による負荷に着目して---. ぶんせき 560–561.
+37) 	Yokoyama, S., Hoshino, T., Yokoyama, S., Nishihiro, J., Kohzu, A., S. Matsuzaki, S.-I., 2025. Nutrient loading from roadways during multiple precipitation events in lake inbanuma watershed. Mizu kankyo gakkaishi 48(0), 115–123.
+38) 	Wada K., Fujii S., 2006. Characterization of stormwater runoff processes from urban roadways. Mizu kankyo gakkaishi 29(11), 699–704.
+39) 	Matsumoto, M., 2025. KM2025. URL. https://github.com/vitroid/KM2025.

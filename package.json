@@ -1,0 +1,13 @@
+{
+  "name": "csl-preview",
+  "version": "1.0.0",
+  "description": "CSL renderer using citeproc-js (reference implementation, used by Zotero)",
+  "type": "module",
+  "dependencies": {
+    "citeproc": "^2.4.63"
+  },
+  "scripts": {
+    "preview": "node csl_render.mjs",
+    "preview:py": "cd .. && poetry run python csl_preview/csl_render.py"
+  }
+}

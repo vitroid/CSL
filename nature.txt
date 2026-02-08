@@ -1,0 +1,39 @@
+1.	Kalff, J. Limnology: inland water ecosystems. 592, (2002).
+2.	Matsumura, T. & Ishimaru, T. Freshwater discharge and inflow loads of nitrogen and phosphorus to Tokyo bay (from April 1997 to march 1999). Umi No Kenkyu 13, 25–36 (2004).
+3.	Yoshimura, C. & Takeuchi, K. Estimation of nutrient runoff processes in the Mekong river basin using a distributed hydrological model. J. Japan Soc. Hydrol. Water Resour. 20, 493–504 (2007).
+4.	Craine, J. M. et al. Ecological interpretations of nitrogen isotope ratios of terrestrial plants and soils. Plant Soil 396, 1–26 (2015).
+5.	Douglas-Mankin, K. R., Srinivasan, R. & Arnold, J. G. Soil and Water Assessment Tool (SWAT) model: Current developments and applications. Transactions of the ASABE 53, 1423–1431 (2010).
+6.	Haith, D. A. & Shoemaker, L. L. GENERALIZED WATERSHED LOADING FUNCTIONS FOR STREAM FLOW NUTRIENTS1. J. Am. Water Resour. Assoc. 23, 471–478 (1987).
+7.	Young, R. A., Onstad, C. A., Bosch, D. D. & Anderson, W. P. Agricultural non-point source pollution model. AGNPS User’s Guide, Version 4, (1994).
+8.	古米弘明. 非特定汚染源からの流出負荷量の推計手法に関する研究. 平成 23 年度環境省環境研究総合推進費成果報告書 (RFb-11T1). 社団法人日本水環境学会, 東京 (2012).
+9.	Alexander, R. B. et al. Atmospheric nitrogen flux from the watersheds of major estuaries of the United States: An application of the SPARROW watershed model. in Nitrogen Loading in Coastal Water Bodies: An Atmospheric Perspective 119–170 (American Geophysical Union, Washington, D. C., 2013).
+10.	Wetherbee, G. et al. Estimating urban air pollution contribution to South Platte River nitrogen loads with National Atmospheric Deposition Program data and SPARROW model. J. Environ. Manage. 301, 113861 (2022).
+11.	環境省. 水質汚濁に係る環境基準. https://www.env.go.jp/kijun/mizu.html.
+12.	相模川. https://ja.wikipedia.org/w/index.php?title=%E7%9B%B8%E6%A8%A1%E5%B7%9D.
+13.	桂川. コトバンク https://kotobank.jp/word/桂川-231909.
+14.	堤充紀. 桂川(相模川)の水源別流量の推定. 山梨衛公研年報 27, 44–47 (1983).
+15.	国立環境研究所. 環境展望台. 環境展望台: 国立環境研究所 環境情報メディア https://tenbou.nies.go.jp.
+16.	山本民次, 石田愛美 & 清木徹. 太田川河川水中のリンおよび窒素濃度の長期変動—植物プランクトン種の変化を引き起こす主要因として. 水産海洋研究 66, 102–109 (2002).
+17.	奥田益算, 森明寛, 南條吉之 & 永美敏正. 山林汚濁負荷原単位調査について. 鳥取県衛生環境研究所報 45, 16–22 (2005).
+18.	Redfield, A. C. On the proportions of organic derivatives in sea water and their relation to the composition of plankton. 1, (1934).
+19.	黒田久雄, 加藤亮. & 中曽根英雄. 霞ヶ浦水質の現状と流域対策. 農業農村工学会誌 77, 447-450,a1 (2009).
+20.	茨城県県民生活環境部環境対策課. 霞ヶ浦の令和５年度水質概況について. https://www.pref.ibaraki.jp/seikatsukankyo/kantai/data/documents/r5_kasumigaura_suishitsugaikyou.pdf (2024).
+21.	第 8 期湖沼水質保全計画に係る 将来水質予測シミュレーションについて （最終）. https://www.pref.shiga.lg.jp/file/attachment/5318436.pdf (2021).
+22.	Deng, O. et al. Contribution of atmospheric N deposition to riverine N load in a forest-dominated watershed through field monitoring for three years. Chemosphere 266, 128951 (2021).
+23.	藤田慎一. ガス状・粒子状物質の沈着に関する研究. 大気環境 39, 107–118 (2004).
+24.	堀尾拓矢, 井上広史, 吉見仁志 & 北田敏廣. 大気沈着による渥美湾への窒素負荷量の推計. 愛知県環境調査センター所報 40, 1–7 (2013).
+25.	智和正明 & 岩本洋子. 大気から森林・海洋生態系への反応性窒素成分の沈着. 地球化学 58, 145–159 (2024).
+26.	Marquardt, D. W. An algorithm for least-squares estimation of nonlinear parameters. J. Soc. Ind. Appl. Math. 11, 431–441 (1963).
+27.	Virtanen, P. et al. SciPy 1.0: fundamental algorithms for scientific computing in Python. Nature methods 17, 261–272 (2020).
+28.	Drapper, D., Tomlinson, R. & Williams, P. Pollutant concentrations in road runoff: Southeast Queensland case study. doi:10.1061/(ASCE)0733-9372(2000)126:4(313).
+29.	和田桂子. 路面排水中の有機物質および栄養塩類の流出挙動とその削減手法に関する研究. (京都大学大学院工学研究科附属流域圏総合環境質研究センター, 2007).
+30.	丸山利輔 et al. 地域環境水文学. 63–64 (朝倉書店, 2014).
+31.	安藤晴夫 & 和波一夫. 雨天時水質調査結果について (1) 雨天時における河川水質の変化. 東京都環境科学研究所年報= Annual report of the Tokyo Metropolitan Research Institute for Environmental Protection/東京都環境科学研究所 編 2010, 121–125 (2010).
+32.	篠宮佳樹. 四万十川源流部の森林における降雨時の渓流水の硝酸態窒素の流出. Water Sci. 50, 1–16 (2006).
+33.	Rose, L. A., Sebestyen, S. D., Elliott, E. M. & Koba, K. Drivers of atmospheric nitrate processing and export in forested catchments. Water Resour. Res. 51, 1333–1352 (2015).
+34.	Tsunogai, U. et al. Tracing the fate of atmospheric nitrate deposited onto a forest ecosystem in Eastern Asia using Δ17O. Atmos. Chem. Phys. 10, 1809–1820 (2010).
+35.	Ban, S., Matsuda, K., Sato, K. & Ohizumi, T. Long-term assessment of nitrogen deposition at remote EANET sites in Japan. Atmos. Environ. (1994) 146, 70–78 (2016).
+36.	伊藤純一. 水質基準としての窒素・リンとは何か ---畑地流出による負荷に着目して---. ぶんせき 560–561 (2002).
+37.	Yokoyama, S. et al. Nutrient loading from roadways during multiple precipitation events in lake inbanuma watershed. Mizu Kankyo Gakkaishi 48, 115–123 (2025).
+38.	Wada K. & Fujii S. Characterization of stormwater runoff processes from urban roadways. Mizu Kankyo Gakkaishi 29, 699–704 (2006).
+39.	Matsumoto, M. KM2025. https://github.com/vitroid/KM2025 (2025). (2026年2月8日時点)
